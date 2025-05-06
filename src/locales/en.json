@@ -25,7 +25,7 @@
   },
   "signup": {
     "title": "Create your account",
-    "description": "Create your account to start monitoring your sites.",
+    "description": "Create your account.",
     "input_label_name": "Name",
     "placeholder_name": "Enter your name",
     "description_name": "Name can modify after sign up.",
